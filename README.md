@@ -8,4 +8,8 @@
  </p>
  <br />
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya305&layout=compact)](https://github.com/aditya305/github-readme-stats)
+ 
+
+ 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aditya305&theme=react-dark)](https://github.com/aditya305/github-readme-activity-graph)
