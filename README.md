@@ -6,3 +6,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aditya305's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya305&theme=default&hide_border=true"/>
   </a>
  </p>
+ <br />
+ 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aditya305&theme=react-dark)](https://github.com/aditya305/github-readme-activity-graph)
