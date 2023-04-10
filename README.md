@@ -7,8 +7,6 @@
   </a>
  </p>
  <br />
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya305&layout=compact)](https://github.com/aditya305/github-readme-stats)
 
 
 <p align="left">
