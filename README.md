@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/dBJpYj7/hand-gif.gif" alt="hand-gif" autoplaay="true" border="0">
+# Hello 👋
 
  
 
@@ -8,8 +8,7 @@
   </a>
  </p>
  <br />
-
-
+ 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aditya305"
