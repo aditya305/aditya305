@@ -1,9 +1,6 @@
-<h1 align="left">
- Hello 
-</h1>
-
-<img src="resources/hand_gif.gif" width="28">
-
+ <h1 align="left" style="color: blue;">
+        Hello <img src="resources/hand_gif.gif" width="28px" style="filter: invert(100%);">
+    </h1>
 
 <p align="left">
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
