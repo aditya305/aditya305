@@ -1,7 +1,8 @@
 <h1 align="left">
- Hello <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="28">
+ Hello 
 </h1>
 
+<img src="resources/hand_gif.gif" width="28">
 
 
 <p align="left">
