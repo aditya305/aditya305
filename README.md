@@ -11,7 +11,7 @@
 
  <ol>
   <h2>Latest Articles</h2>
-  <li>treamlining Frontend Development with Gulp and Pug&nbsp; 
+  <li>Streamlining Frontend Development with Gulp and Pug&nbsp; 
    <a href="https://adityasutar.medium.com/streamlining-frontend-development-with-gulp-and-pug-4eccca23ce23" target="_blank">Read Now</a>
   </li>
  </ol>
