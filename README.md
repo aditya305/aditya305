@@ -9,6 +9,12 @@
  </p>
  <br />
 
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent" width="48%" alt="Profile Details">
+</a>
+
+<br />
+
  <ol>
   <h2>Latest Articles</h2>
   <li>Streamlining Frontend Development with Gulp and Pug&nbsp; 
