@@ -1,17 +1,11 @@
 # Hello 👋
 
- 
 
-<p align="left">
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aditya305's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya305&theme=default&hide_border=true"/>
-  </a>
- </p>
- <br />
  
 ## GitHub Profile Summary Card
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent" alt="Profile Details">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </a>
 
 <br />
