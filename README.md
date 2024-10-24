@@ -12,12 +12,16 @@
 
  <ol>
   <h2>Latest Articles</h2>
-  <li>Mobile Developer Gold Rush: Unveiling the Hottest Tech Stacks, Salaries of the Past 5 Years
-   <a href="https://medium.com/flutter-jobs/mobile-developer-gold-rush-unveiling-the-hottest-tech-stacks-salaries-of-the-past-5-years-c5c9f61eee8c" target="_blank">Read Now &#x2197;</a>
-  </li>
-  <li>Streamlining Frontend Development with Gulp and Pug&nbsp; 
-   <a href="https://adityasutar.medium.com/streamlining-frontend-development-with-gulp-and-pug-4eccca23ce23" target="_blank">Read Now &#x2197;</a>
-  </li>
+     <li>Automate Your Repository’s Community Health Files with AI&nbsp; 
+    <a href="https://medium.com/brewnbeer/automate-your-repositorys-community-health-files-with-ai-27cb0e0267ba" target="_blank">Read Now &#x2197;</a>
+   </li>
+   <li>Mobile Developer Gold Rush: Unveiling the Hottest Tech Stacks, Salaries of the Past 5 Years
+    <a href="https://medium.com/flutter-jobs/mobile-developer-gold-rush-unveiling-the-hottest-tech-stacks-salaries-of-the-past-5-years-c5c9f61eee8c" target="_blank">Read Now &#x2197;</a>
+   </li>
+   <li>Streamlining Frontend Development with Gulp and Pug&nbsp; 
+    <a href="https://adityasutar.medium.com/streamlining-frontend-development-with-gulp-and-pug-4eccca23ce23" target="_blank">Read Now &#x2197;</a>
+   </li>
+
  </ol>
  <br />
 <p align="left">
