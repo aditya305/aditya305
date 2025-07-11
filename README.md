@@ -1,32 +1,38 @@
-# Hello 👋
+# Hi, I'm Aditya Sutar 👋
 
+I'm a full-cycle product builder and founder of [Brewnbeer](https://brewnbeer.com), where I help startups go from idea to launch — fast and thoughtfully.  
+I specialize in Flutter, Firebase, and Next.js, building everything from AI-powered tools to CRMs, internal platforms, and developer-first products.  
+I’m also building [Flutter Jobs](https://flutterjobs.info) — a curated platform connecting Flutter developers with global opportunities.
 
- 
-## GitHub Profile Summary Card
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent" alt="Profile Details">
- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</a>
+---
 
-<br />
+## What I Do
 
- <ol>
-  <h2>Latest Articles</h2>
-     <li>Automate Your Repository’s Community Health Files with AI&nbsp; 
-    <a href="https://medium.com/brewnbeer/automate-your-repositorys-community-health-files-with-ai-27cb0e0267ba" target="_blank">Read Now &#x2197;</a>
-   </li>
-   <li>Mobile Developer Gold Rush: Unveiling the Hottest Tech Stacks, Salaries of the Past 5 Years
-    <a href="https://medium.com/flutter-jobs/mobile-developer-gold-rush-unveiling-the-hottest-tech-stacks-salaries-of-the-past-5-years-c5c9f61eee8c" target="_blank">Read Now &#x2197;</a>
-   </li>
-   <li>Streamlining Frontend Development with Gulp and Pug&nbsp; 
-    <a href="https://adityasutar.medium.com/streamlining-frontend-development-with-gulp-and-pug-4eccca23ce23" target="_blank">Read Now &#x2197;</a>
-   </li>
+- Product strategy, design, and development  
+- MVPs, full-stack systems, and internal tooling  
+- Working with founders, early-stage teams, and growing startups  
 
- </ol>
- <br />
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aditya305"
-    alt="Aditya Sutar"
-  />
-</p>
+---
+
+## Featured Articles
+
+- [Automate Your Repository’s Community Health Files with AI](https://medium.com/brewnbeer/automate-your-repositorys-community-health-files-with-ai-27cb0e0267ba)  
+- [Mobile Developer Gold Rush: Hottest Stacks & Salaries](https://medium.com/flutter-jobs/mobile-developer-gold-rush-unveiling-the-hottest-tech-stacks-salaries-of-the-past-5-years-c5c9f61eee8c)  
+- [Streamlining Frontend Dev with Gulp & Pug](https://adityasutar.medium.com/streamlining-frontend-development-with-gulp-and-pug-4eccca23ce23)
+
+---
+
+## Stats
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya305&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=css,php,jupyter%20notebook,tex)
+
+---
+
+## Elsewhere
+
+- [Website](https://adityasutar.com)  
+- [LinkedIn](https://linkedin.com/in/adityasutar)  
+- [Twitter](https://x.com/iAdityaSutar)  
+- [Medium](https://medium.com/@adityasutar)  
+- [Email](mailto:aditya@brewnbeer.com)
