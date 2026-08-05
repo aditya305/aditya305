@@ -27,6 +27,10 @@ I’m also building [Flutter Jobs](https://flutterjobs.info) — a curated platf
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya305&theme=transparent)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya305&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=css,php,jupyter%20notebook,tex)
 
+<div align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D GitHub contribution calendar" />
+</div>
+
 ---
 
 ## Elsewhere
